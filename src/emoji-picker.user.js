@@ -1,12 +1,23 @@
 
 (function() {
-	var script = document.createElement("script");
-		script.id = "emoji-picker";
-		script.src = "<%= dist_url %>emoji-picker.min.js";
+	function check() {
+		if (typeof API !== "undefined" && API.enabled)
+			return run();
+		else
+			return setTimeout(check, 1e3);
+	}
 
-	script.onload = function() {
-	    this.parentNode.removeChild(this);
-	};
+	function run () {
+		var script = document.createElement("script");
+			script.id = "emoji-picker";
+			script.src = "<%= dist_url %>emoji-picker.min.js";
 
-	(document.head || document.documentElement).appendChild(script);
+		script.onload = function() {
+		    this.parentNode.removeChild(this);
+		};
+
+		(document.head || document.documentElement).appendChild(script);
+	}
+
+	check();
 })();
