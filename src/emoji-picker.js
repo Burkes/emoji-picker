@@ -15,7 +15,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 				"Objects": "⌚️,📱,📲,💻,⌨️,🖥,🖨,🖱,🖲,🕹,🗜,💽,💾,💿,📀,📼,📷,📸,📹,🎥,📽,🎞,📞,☎️,📟,📠,📺,📻,🎙,🎚,🎛,⏱,⏲,⏰,🕰,⏳,⌛️,📡,🔋,🔌,💡,🔦,🕯,🗑,🛢,💸,💵,💴,💶,💷,💰,💳,💎,⚖,🔧,🔨,⚒,🛠,⛏,🔩,⚙,⛓,🔫,💣,🔪,🗡,⚔,🛡,🚬,☠️,⚰,⚱,🏺,🔮,📿,💈,⚗,🔭,🔬,🕳,💊,💉,🌡,🏷,🔖,🚽,🚿,🛁,🔑,🗝,🛋,🛌,🛏,🚪,🛎,🖼,🗺,⛱,🗿,🛍,🎈,🎏,🎀,🎁,🎊,🎉,🎎,🎐,🎌,🏮,✉️,📩,📨,📧,💌,📮,📪,📫,📬,📭,📦,📯,📥,📤,📜,📃,📑,📊,📈,📉,📄,📅,📆,🗓,📇,🗃,🗳,🗄,📋,🗒,📁,📂,🗂,🗞,📰,📓,📕,📗,📘,📙,📔,📒,📚,📖,🔗,📎,🖇,✂️,📐,📏,📌,📍,🚩,🏳,🏴,🔐,🔒,🔓,🔏,🖊,🖋,✒️,📝,✏️,🖍,🖌,🔍,🔎",
 				"Symbols": "❤️,💛,💚,💙,💜,💔,❣️,💕,💞,💓,💗,💖,💘,💝,💟,☮️,✝️,☪️,🕉,☸️,✡️,🔯,🕎,☯️,☦️,🛐,⛎,♈️,♉️,♊️,♋️,♌️,♍️,♎️,♏️,♐️,♑️,♒️,♓️,🆔,⚛,🈳,🈹,☢️,☣️,📴,📳,🈶,🈚️,🈸,🈺,🈷️,✴️,🆚,🉑,💮,🉐,㊙️,㊗️,🈴,🈵,🈲,🅰️,🅱️,🆎,🆑,🅾️,🆘,⛔️,📛,🚫,❌,⭕️,💢,♨️,🚷,🚯,🚳,🚱,🔞,📵,❗️,❕,❓,❔,‼️,⁉️,💯,🔅,🔆,🔱,⚜,〽️,⚠️,🚸,🔰,♻️,🈯️,💹,❇️,✳️,❎,✅,💠,🌀,➿,🌐,Ⓜ️,🏧,🈂️,🛂,🛃,🛄,🛅,♿️,🚭,🚾,🅿️,🚰,🚹,🚺,🚼,🚻,🚮,🎦,📶,🈁,🆖,🆗,🆙,🆒,🆕,🆓,0️⃣,1️⃣,2️⃣,3️⃣,4️⃣,5️⃣,6️⃣,7️⃣,8️⃣,9️⃣,🔟,🔢,▶️,⏸,⏯,⏹,⏺,⏭,⏮,⏩,⏪,🔀,🔁,🔂,◀️,🔼,🔽,⏫,⏬,➡️,⬅️,⬆️,⬇️,↗️,↘️,↙️,↖️,↕️,↔️,🔄,↪️,↩️,⤴️,⤵️,#️⃣,*️⃣,ℹ️,🔤,🔡,🔠,🔣,🎵,🎶,〰️,➰,✔️,🔃,➕,➖,➗,✖️,💲,💱,©️,®️,™️,🔚,🔙,🔛,🔝,🔜,☑️,🔘,⚪️,⚫️,🔴,🔵,🔸,🔹,🔶,🔷,🔺,▪️,▫️,⬛️,⬜️,🔻,◼️,◻️,◾️,◽️,🔲,🔳,🔈,🔉,🔊,🔇,📣,📢,🔔,🔕,🃏,🀄️,♠️,♣️,♥️,♦️,🎴,👁‍🗨,💭,🗯,💬,🕐,🕑,🕒,🕓,🕔,🕕,🕖,🕗,🕘,🕙,🕚,🕛,🕜,🕝,🕞,🕟,🕠,🕡,🕢,🕣,🕤,🕥,🕦,🕧",
 				"Flags": "🇦🇫,🇦🇽,🇦🇱,🇩🇿,🇦🇸,🇦🇩,🇦🇴,🇦🇮,🇦🇶,🇦🇬,🇦🇷,🇦🇲,🇦🇼,🇦🇺,🇦🇹,🇦🇿,🇧🇸,🇧🇭,🇧🇩,🇧🇧,🇧🇾,🇧🇪,🇧🇿,🇧🇯,🇧🇲,🇧🇹,🇧🇴,🇧🇶,🇧🇦,🇧🇼,🇧🇷,🇮🇴,🇻🇬,🇧🇳,🇧🇬,🇧🇫,🇧🇮,🇨🇻,🇰🇭,🇨🇲,🇨🇦,🇮🇨,🇰🇾,🇨🇫,🇹🇩,🇨🇱,🇨🇳,🇨🇽,🇨🇨,🇨🇴,🇰🇲,🇨🇬,🇨🇩,🇨🇰,🇨🇷,🇭🇷,🇨🇺,🇨🇼,🇨🇾,🇨🇿,🇩🇰,🇩🇯,🇩🇲,🇩🇴,🇪🇨,🇪🇬,🇸🇻,🇬🇶,🇪🇷,🇪🇪,🇪🇹,🇪🇺,🇫🇰,🇫🇴,🇫🇯,🇫🇮,🇫🇷,🇬🇫,🇵🇫,🇹🇫,🇬🇦,🇬🇲,🇬🇪,🇩🇪,🇬🇭,🇬🇮,🇬🇷,🇬🇱,🇬🇩,🇬🇵,🇬🇺,🇬🇹,🇬🇬,🇬🇳,🇬🇼,🇬🇾,🇭🇹,🇭🇳,🇭🇰,🇭🇺,🇮🇸,🇮🇳,🇮🇩,🇮🇷,🇮🇶,🇮🇪,🇮🇲,🇮🇱,🇮🇹,🇨🇮,🇯🇲,🇯🇵,🇯🇪,🇯🇴,🇰🇿,🇰🇪,🇰🇮,🇽🇰,🇰🇼,🇰🇬,🇱🇦,🇱🇻,🇱🇧,🇱🇸,🇱🇷,🇱🇾,🇱🇮,🇱🇹,🇱🇺,🇲🇴,🇲🇰,🇲🇬,🇲🇼,🇲🇾,🇲🇻,🇲🇱,🇲🇹,🇲🇭,🇲🇶,🇲🇷,🇲🇺,🇾🇹,🇲🇽,🇫🇲,🇲🇩,🇲🇨,🇲🇳,🇲🇪,🇲🇸,🇲🇦,🇲🇿,🇲🇲,🇳🇦,🇳🇷,🇳🇵,🇳🇱,🇳🇨,🇳🇿,🇳🇮,🇳🇪,🇳🇬,🇳🇺,🇳🇫,🇲🇵,🇰🇵,🇳🇴,🇴🇲,🇵🇰,🇵🇼,🇵🇸,🇵🇦,🇵🇬,🇵🇾,🇵🇪,🇵🇭,🇵🇳,🇵🇱,🇵🇹,🇵🇷,🇶🇦,🇷🇪,🇷🇴,🇷🇺,🇷🇼,🇧🇱,🇸🇭,🇰🇳,🇱🇨,🇵🇲,🇻🇨,🇼🇸,🇸🇲,🇸🇹,🇸🇦,🇸🇳,🇷🇸,🇸🇨,🇸🇱,🇸🇬,🇸🇽,🇸🇰,🇸🇮,🇸🇧,🇸🇴,🇿🇦,🇬🇸,🇰🇷,🇸🇸,🇪🇸,🇱🇰,🇸🇩,🇸🇷,🇸🇿,🇸🇪,🇨🇭,🇸🇾,🇹🇼,🇹🇯,🇹🇿,🇹🇭,🇹🇱,🇹🇬,🇹🇰,🇹🇴,🇹🇹,🇹🇳,🇹🇷,🇹🇲,🇹🇨,🇹🇻,🇺🇬,🇺🇦,🇦🇪,🇬🇧,🇺🇸,🇻🇮,🇺🇾,🇺🇿,🇻🇺,🇻🇦,🇻🇪,🇻🇳,🇼🇫,🇪🇭,🇾🇪,🇿🇲,🇿🇼"
-			}	
+			}
 		},
 		ui: {
 			css: [
@@ -51,7 +51,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 							$("#emoji-picker .content").scrollTop(0);
 						},
 						append: function () {
-							var element = $('<div class="category ' + this.name + '">' + window.emoji.replace_unified(this.emoji) + '</div>');
+							var element = $('<div class="category ' + this.name + '">' + emoji.replace_unified(this.emoji) + '</div>');
 								// add some data to it + make this one default, hook events
 								element.addClass("selected").attr("data-name", this.name).on("click", this.onClick);
 								element.on("mouseover", window.ep.ui.emojiOver).on("mouseout", window.ep.ui.emojiOut);
@@ -69,7 +69,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 							$("#emoji-picker .content").scrollTop(0);
 						},
 						append: function () {
-							var element = $('<div class="category ' + this.name + '">' + window.emoji.replace_unified(this.emoji) + '</div>');
+							var element = $('<div class="category ' + this.name + '">' + emoji.replace_unified(this.emoji) + '</div>');
 								element.attr("data-name", this.name).on("click", this.onClick);
 								element.on("mouseover", window.ep.ui.emojiOver).on("mouseout", window.ep.ui.emojiOut);
 							$("#emoji-picker .header .categories").append(element);
@@ -86,7 +86,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 							$("#emoji-picker .content").scrollTop(0);
 						},
 						append: function () {
-							var element = $('<div class="category ' + this.name + '">' + window.emoji.replace_unified(this.emoji) + '</div>');
+							var element = $('<div class="category ' + this.name + '">' + emoji.replace_unified(this.emoji) + '</div>');
 								element.attr("data-name", this.name).on("click", this.onClick);
 								element.on("mouseover", window.ep.ui.emojiOver).on("mouseout", window.ep.ui.emojiOut);
 							$("#emoji-picker .header .categories").append(element);
@@ -103,7 +103,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 							$("#emoji-picker .content").scrollTop(0);
 						},
 						append: function () {
-							var element = $('<div class="category ' + this.name + '">' + window.emoji.replace_unified(this.emoji) + '</div>');
+							var element = $('<div class="category ' + this.name + '">' + emoji.replace_unified(this.emoji) + '</div>');
 								element.attr("data-name", this.name).on("click", this.onClick);
 								element.on("mouseover", window.ep.ui.emojiOver).on("mouseout", window.ep.ui.emojiOut);
 							$("#emoji-picker .header .categories").append(element);
@@ -120,7 +120,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 							$("#emoji-picker .content").scrollTop(0);
 						},
 						append: function () {
-							var element = $('<div class="category ' + this.name + '">' + window.emoji.replace_unified(this.emoji) + '</div>');
+							var element = $('<div class="category ' + this.name + '">' + emoji.replace_unified(this.emoji) + '</div>');
 								element.attr("data-name", this.name).on("click", this.onClick);
 								element.on("mouseover", window.ep.ui.emojiOver).on("mouseout", window.ep.ui.emojiOut);
 							$("#emoji-picker .header .categories").append(element);
@@ -137,7 +137,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 							$("#emoji-picker .content").scrollTop(0);
 						},
 						append: function () {
-							var element = $('<div class="category ' + this.name + '">' + window.emoji.replace_unified(this.emoji) + '</div>');
+							var element = $('<div class="category ' + this.name + '">' + emoji.replace_unified(this.emoji) + '</div>');
 								element.attr("data-name", this.name).on("click", this.onClick);
 								element.on("mouseover", window.ep.ui.emojiOver).on("mouseout", window.ep.ui.emojiOut);
 							$("#emoji-picker .header .categories").append(element);
@@ -154,7 +154,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 							$("#emoji-picker .content").scrollTop(0);
 						},
 						append: function () {
-							var element = $('<div class="category ' + this.name + '">' + window.emoji.replace_unified(this.emoji) + '</div>');
+							var element = $('<div class="category ' + this.name + '">' + emoji.replace_unified(this.emoji) + '</div>');
 								element.attr("data-name", this.name).on("click", this.onClick);
 								element.on("mouseover", window.ep.ui.emojiOver).on("mouseout", window.ep.ui.emojiOut);
 							$("#emoji-picker .header .categories").append(element);
@@ -172,7 +172,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 						},
 						append: function () {
 							var randFlag = window.ep.data.categories.Flags.split(",")[Math.floor(Math.random() * window.ep.data.categories.Flags.split(",").length)];
-							var element = $('<div class="category ' + this.name + '"> ' + window.emoji.replace_unified(randFlag) + '</div>');
+							var element = $('<div class="category ' + this.name + '"> ' + emoji.replace_unified(randFlag) + '</div>');
 								element.attr("data-name", this.name).on("click", this.onClick);
 								element.on("mouseover", window.ep.ui.emojiOver).on("mouseout", window.ep.ui.emojiOut);
 							$("#emoji-picker .header .categories").append(element);
@@ -212,53 +212,53 @@ if (typeof window.ep != "undefined") window.ep.kill();
 				$("#emoji-picker .content").html("");
 				if (!$(this).val()) return window.ep.ui.generateEmojis();
 				var regex = new RegExp($(this).val(), "gi"), unicodes = [];
-				for (var i = 0; i < window.ep.data.searchData.length; i++)
-					if (window.ep.data.searchData[i].n.match(regex))
-						unicodes.push(window.ep.data.searchData[i].u);
+				for (var j = 0; j < window.ep.data.searchData.length; j++)
+					if (window.ep.data.searchData[j].n.match(regex))
+						unicodes.push(window.ep.data.searchData[j].u);
 
 				for (var i = 0; i < unicodes.length; i++) {
 					// apply skintone if it's different than 1
 					if (window.ep.data.tone > 1 && window.ep.data.skinToneMojis.includes(unicodes[i])) {
 						unicodes[i] += window.ep.data.skinTones.split(",")[window.ep.data.tone - 2];
 					}
-	
+
 					// get the emoji name, why not
-					window.emoji.colons_mode = true;
-					var name = window.emoji.replace_unified(unicodes[i]);
-					window.emoji.colons_mode = false;
-	
+					emoji.colons_mode = true;
+					var name = emoji.replace_unified(unicodes[i]);
+					emoji.colons_mode = false;
+
 					// get the emoji html
-					var element = $(window.emoji.replace_unified(unicodes[i]));
-	
+					var element = $(emoji.replace_unified(unicodes[i]));
+
 					// give the element the emoji name and emoji unicode attributes, why not
 					element.attr("data-unicode", unicodes[i]).attr("data-name", name);
-	
+
 					// append it!
 					$("#emoji-picker .content").append(element);
 				}
 			},
 			generateEmojis: function () {
 				var category = $("#emoji-picker .header .categories .category.selected").attr("data-name");
-	
+
 				var unicodes = window.ep.data.categories[category].split(",");
-			
+
 				for (var i = 0; i < unicodes.length; i++) {
 					// apply skintone if it's different than 1;
 					if (window.ep.data.tone > 1 && window.ep.data.skinToneMojis.includes(unicodes[i])) {
 						unicodes[i] += window.ep.data.skinTones.split(",")[window.ep.data.tone - 2];
 					}
-	
+
 					// get the emoji name, why not
-					window.emoji.colons_mode = true;
-					var name = window.emoji.replace_unified(unicodes[i]);
-					window.emoji.colons_mode = false;
-	
+					emoji.colons_mode = true;
+					var name = emoji.replace_unified(unicodes[i]);
+					emoji.colons_mode = false;
+
 					// get the emoji html
-					var element = $(window.emoji.replace_unified(unicodes[i]));
-	
+					var element = $(emoji.replace_unified(unicodes[i]));
+
 					// give the element the emoji name and emoji unicode attributes, why not
 					element.attr("data-unicode", unicodes[i]).attr("data-name", name);
-	
+
 					// append it!
 					$("#emoji-picker .content").append(element);
 				}
@@ -282,23 +282,26 @@ if (typeof window.ep != "undefined") window.ep.kill();
 			}
 		},
 		exec: function () {
-			if (typeof window.emoji === "undefined" || typeof window.jQuery === "undefined")
+			if (!emoji || !$)
 				return setTimeout(window.ep.exec, 1e3);
-			try {
-				this.data.tone = JSON.parse(window.localStorage.settings)[1][window.API.getUser().id].skinTone;
-			} catch (e) {}
 
-			this.eventsModule = window._.find(window.require.s.contexts._.defined,function(m){return m && m._events && m._events["chat:receive"];});
+			try {
+				this.data.tone = JSON.parse(window.localStorage.settings)[1][API.getUser().id].skinTone;
+			} catch (e) {
+				console.error(e);
+			}
+
+			this.eventsModule = _.find(require.s.contexts._.defined,function(m){return m && m._events && m._events["chat:receive"];});
 
 			this.data.searchData = [];
-			for (var i in window.emoji.data)
-				this.data.searchData.push({u: window.emoji.data[i][0][0], n: window.emoji.data[i][3][0]});
+			for (var i in emoji.data)
+				this.data.searchData.push({u: emoji.data[i][0][0], n: emoji.data[i][3][0]});
 
 			$("#chat-input").append('<i class="icon icon-emoji-on" style="right: 5px;"></i>');
 			$("#chat-input-field").css("width", "280px");
 			$("#chat-input .icon.icon-emoji-on").on("click", $.proxy(this.ui.init, this.ui));
 			$(document).on("click", "#mask", $.proxy(this.ui.kill, this.ui));
-			
+
 			// thanks @markb29 and @rob-w
 			$.fn.getCursorPosition = function() {
 				var input = this.get(0);
