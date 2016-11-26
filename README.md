@@ -1,4 +1,4 @@
-emoji-picker
+emoji-picker 🍔
 ======
 
 ### Usage

@@ -189,7 +189,7 @@ if (typeof window.ep != "undefined") window.ep.kill(window.jQuery);
 			emojiClick: function (e) {
 				// emoji name in colons
 				var text = $(this).attr("data-name"),
-					input = $("#chat-input input");
+					input = $("#chat-input-field");
 				// if there's already text
 				if (input.val()) {
 					// if the user typing cursor is at the end of the input message
@@ -282,7 +282,7 @@ if (typeof window.ep != "undefined") window.ep.kill(window.jQuery);
 			}
 		},
 		exec: function () {
-			if (typeof window.API === "undefined" || !window.API.enabled)
+			if (typeof window.emoji === "undefined" || typeof window.jQuery === "undefined")
 				return setTimeout(window.ep.exec, 1e3);
 			try {
 				this.data.tone = JSON.parse(window.localStorage.settings)[1][window.API.getUser().id].skinTone;
