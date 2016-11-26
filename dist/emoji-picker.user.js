@@ -17,7 +17,7 @@
 // @exclude         https://plug.dj/subscribe
 // @exclude         https://plug.dj/@/*
 // @exclude         https://plug.dj/_/*
-// @version         1.0.1
+// @version         1.0.2
 // @downloadURL     https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.user.js
 // @updateURL       https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.user.js
 // ==/UserScript==
