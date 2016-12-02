@@ -298,7 +298,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 				this.data.searchData.push({u: emoji.data[i][0][0], n: emoji.data[i][3][0]});
 
 			$("#chat-input").append('<i class="icon icon-emoji-on" style="right: 5px;"></i>');
-			$("#chat-input-field").css("width", "280px");
+			$("head").append("<style id='inputfix'>#chat-input-field {width: 280px !important}</style>");
 			$("#chat-input .icon.icon-emoji-on").on("click", $.proxy(this.ui.init, this.ui));
 			$(document).on("click", "#mask", $.proxy(this.ui.kill, this.ui));
 
@@ -322,6 +322,7 @@ if (typeof window.ep != "undefined") window.ep.kill();
 		kill: function () {
 			this.ui.kill();
 			$("#chat-input .icon.icon-emoji-on").remove();
+			$("#inputfix").remove();
 			$("#chat-input-field").css("width", "305px");
 			$(document).off("click", "#mask", this.ui.kill);
 			window.ep = undefined;
