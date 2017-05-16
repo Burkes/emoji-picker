@@ -3,7 +3,7 @@ emoji-picker 🍔
 
 ### Usage
 
-# You can go to **[burkes.github.io/emoji-picker](https://burkes.github.io/emoji-picker) to make installation easier.
+# You can go to **[burkes.github.io/emoji-picker](https://burkes.github.io/emoji-picker)** to make installation easier.
 
 No Browser extensions available. You can either run it manually, clicking the bookmark everytime you join a plug.dj room, or have it automatically load if you have an Userscript extension installed (i.e. Tampermonkey or Greasemonkey). **[Demonstration](https://zippy.gfycat.com/InexperiencedViciousAnnelida.webm "Demonstration")**
 
