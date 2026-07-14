@@ -17,10 +17,19 @@
 // @exclude         https://plug.dj/subscribe
 // @exclude         https://plug.dj/@/*
 // @exclude         https://plug.dj/_/*
-// @version         1.0.0
+// @version         1.0.1
 // @downloadURL     https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.user.js
 // @updateURL       https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.user.js
 // ==/UserScript==
+
 (function() {
-    $.getScript("https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.min.js");
+	var script = document.createElement("script");
+		script.id = "emoji-picker";
+		script.src = "https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.min.js";
+
+	script.onload = function() {
+	    this.parentNode.removeChild(this);
+	};
+
+	(document.head || document.documentElement).appendChild(script);
 })();
