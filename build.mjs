@@ -13,19 +13,33 @@ function renderTemplate(template, data) {
 const packageJson = JSON.parse(
   await readFile(join(rootDir, "package.json"), "utf8"),
 );
+const { name: packageName } = packageJson;
 
 await rm(distDir, { recursive: true, force: true });
 await mkdir(distDir, { recursive: true });
 
 await build({
-  entryPoints: [join(rootDir, "src/emoji-picker.js")],
-  outfile: join(distDir, "emoji-picker.min.js"),
+  entryPoints: [`src/${packageName}.js`],
+  outfile: `${distDir}/${packageName}.min.js`,
+  minify: true,
+  target: "es2015",
+});
+
+await build({
+  entryPoints: [join(rootDir, `src/${packageName}.js`)],
+  outfile: join(distDir, `${packageName}.min.js`),
   minify: true,
   bundle: false,
 });
 
-const meta = await readFile(join(rootDir, "src/emoji-picker.meta.js"), "utf8");
-const user = await readFile(join(rootDir, "src/emoji-picker.user.js"), "utf8");
+const meta = await readFile(
+  join(rootDir, `src/${packageName}.meta.js`),
+  "utf8",
+);
+const user = await readFile(
+  join(rootDir, `src/${packageName}.user.js`),
+  "utf8",
+);
 const userscript = renderTemplate(meta + user, packageJson);
 
-await writeFile(join(distDir, "emoji-picker.user.js"), userscript);
+await writeFile(join(distDir, `${packageName}.user.js`), userscript);
