@@ -18,10 +18,9 @@
 // @exclude         https://plug.dj/@/*
 // @exclude         https://plug.dj/_/*
 // @version         1.0.6
-// @downloadURL     https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.user.js
-// @updateURL       https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.user.js
+// @downloadURL     https://cdn.jsdelivr.net/gh/Burkes/emoji-picker@1.0.6/dist/emoji-picker.user.js
+// @updateURL       https://cdn.jsdelivr.net/gh/Burkes/emoji-picker@1.0.6/dist/emoji-picker.user.js
 // ==/UserScript==
-
 (function() {
 	function check() {
 		if (typeof API !== "undefined" && API.enabled)
@@ -33,7 +32,7 @@
 	function run () {
 		var script = document.createElement("script");
 			script.id = "emoji-picker";
-			script.src = "https://rawgit.com/Burkes/emoji-picker/master/dist/emoji-picker.min.js";
+			script.src = "https://cdn.jsdelivr.net/gh/Burkes/emoji-picker@1.0.6/dist/emoji-picker.min.js";
 
 		script.onload = function() {
 		    this.parentNode.removeChild(this);
