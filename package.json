@@ -1,6 +1,6 @@
 {
   "name": "emoji-picker",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "dist_url": "https://rawgit.com/Burkes/emoji-picker/master/dist/",
   "description": "emoji picker-menu for plug.dj",
   "scripts": {
