@@ -24,6 +24,6 @@
     "gulp-rename": "^1.2.2",
     "gulp-template": "^6.1.0",
     "gulp-uglify": "^2.0.0",
-    "run-sequence": "^1.2.2"
+    "run-sequence": "^2.2.1"
   }
 }
