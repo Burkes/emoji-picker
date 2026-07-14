@@ -19,7 +19,7 @@
   "devDependencies": {
     "del": "^2.2.2",
     "graceful-fs": "^4.1.11",
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.1",
     "gulp-concat": "^2.6.1",
     "gulp-rename": "^1.2.2",
     "gulp-template": "^6.1.0",
