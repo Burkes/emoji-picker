@@ -1,0 +1,29 @@
+{
+  "name": "emoji-picker",
+  "version": "1.0.0",
+  "dist_url": "https://rawgit.com/Burkes/emoji-picker/master/dist/",
+  "description": "emoji picker-menu for plug.dj",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Burkes/emoji-picker.git"
+  },
+  "author": "Burkes",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Burkes/emoji-picker/issues"
+  },
+  "homepage": "https://github.com/Burkes/emoji-picker#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "graceful-fs": "^4.1.11",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-template": "^4.0.0",
+    "gulp-uglify": "^2.0.0",
+    "run-sequence": "^1.2.2"
+  }
+}
