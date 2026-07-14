@@ -1,5 +1,5 @@
-if (typeof window.ep != "undefined") window.ep.kill(window.jQuery);
-(function($) {
+if (typeof window.ep != "undefined") window.ep.kill();
+(function() {
 	window.ep = {
 		data: {
 			// asian
@@ -325,4 +325,4 @@ if (typeof window.ep != "undefined") window.ep.kill(window.jQuery);
 		}
 	};
 	window.ep.exec();
-})(window.jQuery);
+})();
